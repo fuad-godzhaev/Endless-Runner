@@ -17,6 +17,177 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "MetaHuman",
+			"Enabled": true
+		},
+		{
+			"Name": "EasyBallistics",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bbecde0f66914263b57fd2af5a0c7ffe"
+		},
+		{
+			"Name": "NinjaCharacter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d91461c6f5544d118198d6acaddb48e8"
+		},
+		{
+			"Name": "ConvAI",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/696326c90d80462b8775712d2b6cc2a7"
+		},
+		{
+			"Name": "MassCrowd",
+			"Enabled": true
+		},
+		{
+			"Name": "MassAI",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "ContextualAnimation",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkCurveDebugUI",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "Soundscape",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "Mutable",
+			"Enabled": true
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraSimCaching",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayBehaviors",
+			"Enabled": true
+		},
+		{
+			"Name": "AbilitySystemGameFeatureActions",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayInteractions",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "NavCorridor",
+			"Enabled": true
+		},
+		{
+			"Name": "StateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "SmartObjects",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
+		},
+		{
+			"Name": "GuidedTutorials",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "PerformanceMonitor",
+			"Enabled": true
+		},
+		{
+			"Name": "Reflex",
+			"Enabled": true
+		},
+		{
+			"Name": "PreLoadScreenMoviePlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "CodeView",
+			"Enabled": true
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
 		}
 	]
 }
