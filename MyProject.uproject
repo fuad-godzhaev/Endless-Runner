@@ -19,6 +19,25 @@
 			]
 		},
 		{
+			"Name": "MetaHuman",
+			"Enabled": true
+		},
+		{
+			"Name": "EasyBallistics",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bbecde0f66914263b57fd2af5a0c7ffe"
+		},
+		{
+			"Name": "NinjaCharacter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d91461c6f5544d118198d6acaddb48e8"
+		},
+		{
+			"Name": "ConvAI",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/696326c90d80462b8775712d2b6cc2a7"
+		},
+		{
 			"Name": "MassCrowd",
 			"Enabled": true
 		},
