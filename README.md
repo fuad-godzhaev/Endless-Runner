@@ -7,6 +7,7 @@ POSTER:
 
 
 Video DEMO for mobile version of the game: https://youtube.com/shorts/mWcLPC1slTo
+
 Video DEMO for PC version of the game: https://youtu.be/eRsTGW3zypk
 
 
